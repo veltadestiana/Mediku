@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mediku</string>
+
+    <string name="first_aid">Pertolongan Pertama</string>
+    <string name="symptom_checker">Cek Gejala</string>
+    <string name="find_hospital">Cari Rumah Sakit</string>
+    <string name="medical_history">Riwayat Kesehatan</string>
+    <string name="med_reminder">Reminder Obat</string>
+
+    <string name="add_case">Tambah kasus</string>
+    <string name="add_med">Tambah obat</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_edit_case">AddEditCase</string>
+    <string name="title_activity_first_aid_procedure">FirstAidProcedureActivity</string>
+    <string name="title_activity_add_edit_med">AddEditMed</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_first_run">FirstRunActivity</string>
+</resources>
